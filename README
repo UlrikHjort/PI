@@ -1,0 +1,3 @@
+Various approximations and Nth digit calculations of PI
+
+NOTE: Number_Theory_Tools.adb and Number_Theory_Tools.ads is needed to compile
